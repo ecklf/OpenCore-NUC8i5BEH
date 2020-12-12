@@ -27,7 +27,7 @@ Add Serial, SystemUUID and MLB for SMBIOS `Macmini8,1`
 - **Enable** - Legacy Boot
 - **Disable** - Fast Boot
 - **Disable** - VT-D
-- **Disable** - Intel sgx
+- **Disable** - Intel Software Guard Extensions (SGX)
 - **Disable** - Intel Platform Trust
 - **Disable** - Network Boot
 - **Disable** - Wake on LAN
