@@ -36,6 +36,6 @@ Add Serial, SystemUUID and MLB for SMBIOS `Macmini8,1`
 
 Everything is working except Thunderbolt Hot-Plug.
 
-Intel WiFi + Bluetooth is working stable for me. WiFi will be shown as Ethernet Interface. GUI switching requires custom client [HeliPort](https://github.com/OpenIntelWireless/HeliPort).
+Intel WiFi + Bluetooth is working stable for me. WiFi will be shown as Ethernet Interface, thus GUI switching requires custom client [HeliPort](https://github.com/OpenIntelWireless/HeliPort).
 
 Bluetooth tested with Magic Keyboard 2, TB3 tested with LG 34UC99-W.
