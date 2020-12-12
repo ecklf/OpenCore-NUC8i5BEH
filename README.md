@@ -38,4 +38,13 @@ Everything is working except Thunderbolt Hot-Plug.
 
 Intel WiFi + Bluetooth is working stable for me. WiFi will be shown as Ethernet Interface, thus GUI switching requires custom client [HeliPort](https://github.com/OpenIntelWireless/HeliPort).
 
-Bluetooth tested with Magic Keyboard 2, TB3 tested with LG 34UC99-W.
+### Test Devices
+
+- WiFi
+  - Telekom Speedport Smart
+  - Xiaomi AC2100
+- Bluetooth
+  - Magic Mouse (1st Gen)
+  - Magic Keyboard (2nd Gen)
+- Thunderbolt
+  - LG 34UC99-W
