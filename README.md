@@ -16,7 +16,7 @@ Add Serial, SystemUUID and MLB for SMBIOS `Macmini8,1`
 
 - CPU: i5-8259U
 - GPU: HD655
-- Audio Codec: ALC233
+- Audio Codec: ALC235
 - Model: NUC8i5BEH
 - Mobo: NUC8BEB
 - Ethernet: Intel I219-V
